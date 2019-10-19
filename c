@@ -1,1 +1,1 @@
-[fgf] (https://ilenko.github.io/gephi/ "необ")
+[id]: https://ilenko.github.io/gephi/ "необ"
